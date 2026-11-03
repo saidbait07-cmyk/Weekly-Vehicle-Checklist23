@@ -1,0 +1,10 @@
+{
+  "name": "SVIFMS — Al-Ghalbi Vehicle Inspection System",
+  "short_name": "SVIFMS",
+  "description": "Smart Vehicle Inspection & Fleet Management System (EN/AR/HI/UR)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#f59e0b",
+  "lang": "en"
+}
